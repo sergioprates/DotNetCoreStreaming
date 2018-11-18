@@ -9,4 +9,5 @@
 ## Objetivo
 
 O objetivo deste projeto é demonstrar a criação de uma api de streaming utilizando .NET Core.
+
 Um detalhamento dos passos está disponível no blog X
