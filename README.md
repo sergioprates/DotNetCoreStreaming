@@ -10,4 +10,4 @@
 
 O objetivo deste projeto é demonstrar a criação de uma api de streaming utilizando .NET Core.
 
-Um detalhamento dos passos está disponível no blog X
+Um detalhamento dos passos está disponível no blog https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac

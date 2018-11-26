@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreStreaming", "DotNetCoreStreaming\DotNetCoreStreaming.csproj", "{B2786932-0FA8-41B8-ADC1-AF24E40676CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCoreStreaming", "DotNetCoreStreaming\DotNetCoreStreaming.csproj", "{B2786932-0FA8-41B8-ADC1-AF24E40676CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreStreaming.Consumer", "DotNetCoreStreaming.Consumer\DotNetCoreStreaming.Consumer.csproj", "{A353D83A-F039-4B79-8C34-E4AC6F06B2B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B2786932-0FA8-41B8-ADC1-AF24E40676CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2786932-0FA8-41B8-ADC1-AF24E40676CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2786932-0FA8-41B8-ADC1-AF24E40676CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A353D83A-F039-4B79-8C34-E4AC6F06B2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A353D83A-F039-4B79-8C34-E4AC6F06B2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A353D83A-F039-4B79-8C34-E4AC6F06B2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A353D83A-F039-4B79-8C34-E4AC6F06B2B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
